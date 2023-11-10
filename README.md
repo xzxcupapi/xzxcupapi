@@ -22,6 +22,7 @@ Anda dapat menghubungi saya melalui email di [arjunasatria1717@gmail.com](mailto
 ## LinkedIn
 
 Kunjungi profil LinkedIn saya untuk informasi lebih lanjut dan jaringan profesional: [LinkedIn](https://www.linkedin.com/in/arjuna-satria-212a59242/)
+Dan kunjungi profile HackerRank saya: [HackerRank](https://www.hackerrank.com/profile/arjunastrw)
 
 Terima kasih telah mengunjungi repositori saya!
 
