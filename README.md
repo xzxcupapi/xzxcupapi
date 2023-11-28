@@ -12,6 +12,7 @@ Berikut beberapa proyek yang saya kembangkan atau berkontribusi di repositori in
 
 1. [Web Resume Saya](https://arjunastrw.github.io/resumejuna.github.io/)
 2. [Apple Collection](https://arjunastrw.github.io/applecollection.github.io/)
+3. [iCold](https://arjunastrw.github.io/iCold.github.io/)
 
 Jangan ragu untuk berkontribusi atau memberikan umpan balik. Saya senang menerima tanggapan dan bekerja sama dengan sesama pengembang.
 
