@@ -10,7 +10,7 @@ Saya sedang mempelajari Go Language, dan saya senang berkolaborasi dalam proyek-
 
 Berikut beberapa proyek yang saya kembangkan atau berkontribusi di repositori ini:
 
-1. [Web Resume Saya](https://arjunastrw.github.io/resumejuna.github.io/)
+1. [Web Resume Saya](https://arjunastrw.github.io/Myresume/)
 2. [TriPedia](https://arjunastrw.github.io/TriPedia/)
 3. [Apple Collection](https://arjunastrw.github.io/applecollection.github.io/)
 4. [iCold](https://arjunastrw.github.io/iCold.github.io/)
