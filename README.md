@@ -10,9 +10,10 @@ Here are some projects I developed or contributed to in this repository:
 
 1. [Web Resume Saya](https://arjunastrw.github.io/Myresume/) 💼
 2. [Project Management - Backend ](https://github.com/arjunastrw/project-management-hub)
-3. [Node API Login - Backend ](https://github.com/arjunastrw/nodemon-api-login)
-4. [TriPedia - Frontend](https://arjunastrw.github.io/TriPedia/)
-5. [iCold - Frontend](https://arjunastrw.github.io/iCold.github.io/)
+3. [Smart Library Management - Backend](https://github.com/arjunastrw/smart-library-api)
+4. [Node API Login - Backend ](https://github.com/arjunastrw/nodemon-api-login)
+5. [TriPedia - Frontend](https://arjunastrw.github.io/TriPedia/)
+6. [iCold - Frontend](https://arjunastrw.github.io/iCold.github.io/)
 
 Feel free to contribute or provide feedback. I enjoy receiving feedback and collaborating with fellow developers.
 
