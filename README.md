@@ -13,7 +13,7 @@ I'm Arjuna Satria. I learn Full Stack Development and Cloud computing.
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=%23007ACC)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=arjunastrw&theme=tokyonight&hide_border=false)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xzxcupapi&theme=react)](https://git.io/streak-stats)
 <br/>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arjunastrw&show_icons=true&theme=tokyonight)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunastrw&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
