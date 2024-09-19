@@ -48,7 +48,7 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=xzxcupapi&theme=react&hide_border=true&no&border_radius=50&langs_count=12"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=xzxcupapi&theme=react&hide_border=true&no&border_radius=50&langs_count=12&v=2"/>
 
 </td>
 </tr>
