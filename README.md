@@ -1,49 +1,97 @@
-## Hi there 👋
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-I'm Arjuna Satria. I learn Full Stack Development and Cloud computing.
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Arjuna Satria. I learn Full Stack Development and Cloud computing.</h1></summary>
+  </ul>
+</div>
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Technologies That I Know👨🏻‍💻</h1></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,docker,firebase,go,nodejs,laravel,vue,postgres,mysql&perline=9" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=express,java,php,react,next,typescript,mongodb,git,dart&perline=9" />
+  </a>
+</p>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">GitHub Stats👨📊</h1></summary>
+  </ul>
+</div>
+
+<!--- stats & Trophy (start) -->
+<table align="center" border="0">
+<tr>
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=xzxcupapi&theme=react&hide_border=true&border_radius=50&show_icons=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com?user=xzxcupapi&theme=react&hide_border=true&border_radius=50" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=xzxcupapi&theme=react&hide_border=true&no&border_radius=50&langs_count=6"/>
+
+</td>
+</tr>
+</table>
+<!--- stats (end) -->
 
 
+<!--#  🛠 Projects️-->
 
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=%23007ACC) ![Firebase Badge](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-<br>
-![Go](https://img.shields.io/badge/Go-%23007ACC?style=for-the-badge&logo=go&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)<br>
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-<br>
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=%23007ACC)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<!--Here are some projects I developed or contributed to in this repository:-->
 
-# 📊 GitHub Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xzxcupapi&theme=react&hide_border=true&border_radius=50)](https://git.io/streak-stats)
-<br/>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=xzxcupapi&theme=react&hide_border=true&border_radius=50&show_icons=true)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xzxcupapi&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=50)
+<!--1. [My Resume](https://arjunastrw.github.io/Myresume/)-->
+<!--2. [Project Management - Backend ](https://github.com/arjunastrw/project-management-hub)-->
+<!--3. [Smart Library Management - Backend](https://github.com/arjunastrw/smart-library-api)-->
+<!--4. [Node API Login - Backend ](https://github.com/arjunastrw/nodemon-api-login)-->
+<!--5. [TriPedia - Frontend](https://arjunastrw.github.io/TriPedia/)-->
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=xzxcupapi&limit=5&theme=react&combine_all_yearly_contributions=false&border_radius=50&hide_border=true)
+<!--Feel free to contribute or provide feedback. I enjoy receiving feedback and collaborating with fellow developers.-->
 
----
-[![](https://visitcount.itsvg.in/api?id=xzxcupapi&icon=0&color=0)](https://visitcount.itsvg.in)
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
 
-#  🛠 Projects️
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/arjunasatria/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://x.com/kindboy_env" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+<a href="https://www.instagram.com/arjunastrw/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 
-Here are some projects I developed or contributed to in this repository:
+[//]: # (<a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>)
 
-1. [My Resume](https://arjunastrw.github.io/Myresume/)
-2. [Project Management - Backend ](https://github.com/arjunastrw/project-management-hub)
-3. [Smart Library Management - Backend](https://github.com/arjunastrw/smart-library-api)
-4. [Node API Login - Backend ](https://github.com/arjunastrw/nodemon-api-login)
-5. [TriPedia - Frontend](https://arjunastrw.github.io/TriPedia/)
+[//]: # (<a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>)
+</p>
+<div align="center">
 
-Feel free to contribute or provide feedback. I enjoy receiving feedback and collaborating with fellow developers.
+[![](https://visitcount.itsvg.in/api?id=xzxcupapi&icon=3&color=6)](https://visitcount.itsvg.in)
 
-# 📧 Contact
+</div>
+<!--# 🌐 Job Portal-->
 
-You can contact me via email at [arjunasatria1717@gmail.com](mailto:arjunasatria1717@gmail.com).
+<!--Visit my LinkedIn profile for more information and professional networking: [LinkedIn](https://www.linkedin.com/in/arjuna-satria-212a59242/)-->
+<!--And visit my HackerRank profile: [HackerRank](https://www.hackerrank.com/profile/arjunastrw)-->
 
-# 🌐 Job Portal
-
-Visit my LinkedIn profile for more information and professional networking: [LinkedIn](https://www.linkedin.com/in/arjuna-satria-212a59242/)
-And visit my HackerRank profile: [HackerRank](https://www.hackerrank.com/profile/arjunastrw)
-
-Thank you for visiting my repository!
+<!--Thank you for visiting my repository!-->
