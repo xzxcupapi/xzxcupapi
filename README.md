@@ -41,14 +41,14 @@
 <tr>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=xzxcupapi&theme=react&hide_border=true&border_radius=50&show_icons=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=xzxcupapi&theme=react&hide_border=true&border_radius=50&show_icons=true&v=2" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com?user=xzxcupapi&theme=react&hide_border=true&border_radius=50" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com?user=xzxcupapi&theme=react&hide_border=true&border_radius=50&v=1" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=xzxcupapi&theme=react&hide_border=true&no&border_radius=50&langs_count=6"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=xzxcupapi&theme=react&hide_border=true&no&border_radius=50&langs_count=12"/>
 
 </td>
 </tr>
