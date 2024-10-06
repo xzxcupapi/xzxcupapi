@@ -43,7 +43,7 @@
 
   <!-- <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=xzxcupapi&theme=react&hide_border=true&border_radius=50&show_icons=true&v=2" /> -->
   <!-- <br></br> -->
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com?user=xzxcupapi&theme=react&hide_border=true&border_radius=50&v=1" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com?user=xzxcupapi&theme=react&hide_border=true&border_radius=50&v=2" /> 
 </td>
 
 <td width="50%" align="center">
